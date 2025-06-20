@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{8F8EFB95-0087-4DEF-A088-375525E0F1A9}|ConsoleApplication1.vcxproj|C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\Recursivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{8F8EFB95-0087-4DEF-A088-375525E0F1A9}|ConsoleApplication1.vcxproj|solutionrelative:Recursivo.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{8F8EFB95-0087-4DEF-A088-375525E0F1A9}|ConsoleApplication1.vcxproj|C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
       "RelativeMoniker": "D:0:0:{8F8EFB95-0087-4DEF-A088-375525E0F1A9}|ConsoleApplication1.vcxproj|solutionrelative:ConsoleApplication1.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
     }
@@ -19,12 +23,25 @@
             {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "Recursivo.cpp",
+              "DocumentMoniker": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\Recursivo.cpp",
+              "RelativeDocumentMoniker": "Recursivo.cpp",
+              "ToolTip": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\Recursivo.cpp",
+              "RelativeToolTip": "Recursivo.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-06-07T00:02:56.19Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
               "Title": "ConsoleApplication1.cpp",
               "DocumentMoniker": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\ConsoleApplication1.cpp",
               "RelativeDocumentMoniker": "ConsoleApplication1.cpp",
-              "ToolTip": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\ConsoleApplication1.cpp*",
-              "RelativeToolTip": "ConsoleApplication1.cpp*",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABwAAAABAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\super\\OneDrive\\Documentos\\GitHub\\Practicas_Codigo\\ConsoleApplication1\\ConsoleApplication1.cpp",
+              "RelativeToolTip": "ConsoleApplication1.cpp",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAUAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
               "WhenOpened": "2025-06-06T18:51:55.208Z",
               "EditorCaption": ""
